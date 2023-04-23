@@ -1,4 +1,4 @@
-# 10 Pixels
+# 10 Pixel
 A rounded pixel typeface with three unique weights. 
 10 Pixel - Latin Display Sans Serif typeface | Genre: Drama, Fantasy, Science fiction | Designed by Jaikishan Patel. 
 Read more about it at [MagicType](https://www.magictype.in/portfolio/10-pixel-typeface/)
