@@ -1,8 +1,9 @@
 # 10 Pixels
 Pixel type family.
 
-10 Pixel - Latin Display Sans Serif typeface | Genre: Drama, Fantasy, Science fiction | Designed by Jaikishan Patel 
+![10px_poster1920_colour](https://user-images.githubusercontent.com/9861917/233862184-52becd30-39a2-46ea-b92c-aab1820addc5.jpg)
 
+10 Pixel - Latin Display Sans Serif typeface | Genre: Drama, Fantasy, Science fiction | Designed by Jaikishan Patel 
 Read more about it at [MagicType](https://www.magictype.in/portfolio/10-pixel-typeface/)
 
 ## The Type Family
