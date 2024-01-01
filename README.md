@@ -9,4 +9,4 @@ Read more about it at [MagicType](https://www.magictype.in/portfolio/10-pixel-ty
 '10 Pixel' is a Latin display typeface with extensive language support. With over 650 glyphs, it covers more than 250 languages, making it an excellent choice for use in a wide range of international projects. This family comes with 3 weights that are defined by the density of pixels, and not by the thickness of the glyph strokes. The typeface includes a range of OpenType features, including standard and discretionary ligatures, mathematical features, currency symbols, arrows, ordinals, accents, lining figures, tabular figures, fractions, alternative glyphs, and more.
 
 ## Licence
-Raigarh is licensed under the [SIL Open Font License v1.1](http://scripts.sil.org/OFL). To view the copyright and specific terms and conditions please refer to [OFL.txt](https://github.com/magictype/10-pixel/blob/master/OFL.txt)
+10 Pixel is licensed under the [SIL Open Font License v1.1](http://scripts.sil.org/OFL). To view the copyright and specific terms and conditions please refer to [OFL.txt](https://github.com/magictype/10-pixel/blob/master/OFL.txt)
